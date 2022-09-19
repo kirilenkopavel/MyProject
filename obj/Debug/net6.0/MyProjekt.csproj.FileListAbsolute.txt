@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\MyProjekt\bin\Debug\net6.0\MyProjekt.exe
+C:\Users\Professional\Desktop\MyProjekt\bin\Debug\net6.0\MyProjekt.deps.json
+C:\Users\Professional\Desktop\MyProjekt\bin\Debug\net6.0\MyProjekt.runtimeconfig.json
+C:\Users\Professional\Desktop\MyProjekt\bin\Debug\net6.0\MyProjekt.dll
+C:\Users\Professional\Desktop\MyProjekt\bin\Debug\net6.0\MyProjekt.pdb
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\MyProjekt.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\MyProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\MyProjekt.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\MyProjekt.AssemblyInfo.cs
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\MyProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\MyProjekt.dll
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\refint\MyProjekt.dll
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\MyProjekt.pdb
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\MyProjekt.genruntimeconfig.cache
+C:\Users\Professional\Desktop\MyProjekt\obj\Debug\net6.0\ref\MyProjekt.dll
